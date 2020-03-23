@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  color: white;
+  background-image:url(https://cdn.pixabay.com/photo/2017/09/16/12/35/anonymous-2755365_960_720.jpg);
+}
+.submit{
+  color: white;
+}
+p{
+  margin-bottom: 0;
+}
+.main{
+  margin: 40%;
+  margin-top: 15%;
+  width: 370px;
+  height: 135px;
+  background-color: black;
+  text-align: center;
+}
+.message{
+  margin: 40%;
+  margin-top: 15%;
+  width: 370px;
+  height: 280px;
+  background-color: black;
+  text-align: center;
+}
+.paragraph{
+  margin-left: -180px;
+}
+.send{
+  margin-left: -230px;
+}
